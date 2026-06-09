@@ -25,6 +25,10 @@ label.pack(pady=5)
 entry = Entry(window, width=20)
 entry.pack(pady=5)
 
+
+
+
+
 button = Button(window, text="Есептеу", command=calculate)
 button.pack(pady=10)
 
